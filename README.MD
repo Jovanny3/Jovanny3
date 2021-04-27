@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Jovanny3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  Javascript
+- 🌱 I’m currently learning  ReactJs
+- 
+- 💞️ I’m looking to collaborate on  Alguns projectos inicias
+- 📫 How to reach me  sebastiaojovanny@gmail.com
 
 <!---
 Jovanny3/Jovanny3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

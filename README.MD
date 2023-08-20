@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jovanny3
+- I'm a backend development with Nodejs
 - 👀 I’m interested in  Javascript
 - 🌱 I’m currently learning  ReactJs
 - 
